@@ -1,5 +1,11 @@
 # @ai-sdk/vue
 
+## 4.0.177
+
+### Patch Changes
+
+- ai@7.0.177
+
 ## 4.0.176
 
 ### Patch Changes
